@@ -1,12 +1,11 @@
 // CheckError
 // Function that extracts human-readable information from OSStatus codes.
 //
-// Credit: "Learning Core Audio: A Hands-on Guide to Audio Programming for Mac and iOS", by Chris Adamson, Kevin Avila
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 99FC4D31-212F-4BD2-A99D-80448E349110
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// Language: C
-// Platform: All
+// IDECodeSnippetVersion: 2
 
 static void CheckError(OSStatus error, const char *operation) {
     if (error == noErr) {
