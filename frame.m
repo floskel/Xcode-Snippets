@@ -1,8 +1,11 @@
 // Set Frame
 // Initializes a view frame inside a code block
-// Platform: All
+//
+// IDECodeSnippetIdentifier: FF25DB93-715E-4071-8E6A-7E7EBDF6017A
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 <# view #>.frame = ({
     CGRect frame = <# view #>.frame;
